@@ -17,6 +17,8 @@ Smart dual PWM fan controller based on Arduino Nano.
 - 2x Fan Cable with 4 pin male connector
 - USB from Nano to USB header on motherboard cable
 
+![Wiring Diagram](connections.png)
+
 Nano is powered by USB 5V. Connect 12V from CPU Fan cable to 12V of Fan Cables directly, bypassing Nano. Nano overheats working on 12V.
 
 
